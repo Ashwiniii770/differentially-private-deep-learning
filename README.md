@@ -47,3 +47,10 @@ Training loss over iterations during model training.
 Model training output showing decreasing loss over epochs.
 
 ![Training Output](images/training_epochs_output.png)
+
+## Model Evaluation
+
+### Model Accuracy
+The model achieved approximately **70.6% accuracy** on the MNIST dataset when trained with Differential Privacy.
+
+![Model Accuracy](images/model_accuracy.png)
