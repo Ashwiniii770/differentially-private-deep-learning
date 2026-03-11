@@ -54,3 +54,12 @@ Model training output showing decreasing loss over epochs.
 The model achieved approximately **70.6% accuracy** on the MNIST dataset when trained with Differential Privacy.
 
 ![Model Accuracy](images/model_accuracy.png)
+
+## Key Results
+
+| Metric | Value |
+|------|------|
+| Dataset | MNIST |
+| Model Accuracy | 70.6% |
+| Privacy Budget (ε) | ~0.22 |
+| Framework | PyTorch + Opacus |
