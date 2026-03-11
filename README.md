@@ -30,3 +30,20 @@ MNIST handwritten digit dataset.
 
 ```bash
 pip install torch torchvision opacus matplotlib
+
+## Results
+
+### Model Prediction
+Example of the model predicting a handwritten digit.
+
+![Prediction](images/prediction_example.png)
+
+### Training Loss Curve
+Training loss over iterations during model training.
+
+![Training Loss](images/training_loss.png)
+
+### Training Progress
+Model training output showing decreasing loss over epochs.
+
+![Training Output](images/training_epochs_output.png)
