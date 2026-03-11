@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/Ashwiniii770/differentially-private-deep-learning/blob/main/Differentially_Private_Deep_Learning.ipynb)
 # Differentially Private Deep Learning
 
 This project demonstrates how to train a deep learning model while preserving user data privacy using Differential Privacy.
