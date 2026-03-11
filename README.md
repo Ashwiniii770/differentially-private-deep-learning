@@ -1,7 +1,5 @@
 ## Run in Google Colab
 
-Click the button below to run the notebook:
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/Ashwiniii770/differentially-private-deep-learning/blob/main/Differentially_Private_Deep_Learning.ipynb)
 # Differentially Private Deep Learning
