@@ -1,18 +1,30 @@
 # Differentially Private Deep Learning
 
-This project demonstrates training a deep learning model with differential privacy.
+This project demonstrates how to train a deep learning model while preserving user data privacy using Differential Privacy.
 
-## Technologies
+## Technologies Used
 - PyTorch
 - Opacus
-- MNIST dataset
+- MNIST Dataset
+- Matplotlib
 
 ## Features
-- Differential privacy training
-- Privacy budget calculation (ε)
+- Training neural networks with differential privacy
+- Privacy budget (ε) calculation
 - Model accuracy evaluation
 - Training loss visualization
+- Privacy vs accuracy tradeoff analysis
+
+## Dataset
+MNIST handwritten digit dataset.
 
 ## Results
-Accuracy: ~70-85%
-Privacy budget: ε ≈ 0.2
+| Model | Accuracy | Privacy |
+|------|---------|---------|
+| Normal Model | ~96% | None |
+| Private Model | ~70-85% | ε ≈ 0.2 |
+
+## Installation
+
+```bash
+pip install torch torchvision opacus matplotlib
